@@ -1,6 +1,4 @@
-# GuanDong_Portal
 
-## 更新算法，继续奔放
 
 基于 Myitmx 项目修改。可用于天翼校园网（广东已测试），</br>
 更改login.php中的wlancip为本校认证服务器IP即可！
